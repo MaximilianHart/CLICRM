@@ -1,1 +1,2 @@
-data/contacts.db
+data/contacts.csv
+src/__pycache__/
